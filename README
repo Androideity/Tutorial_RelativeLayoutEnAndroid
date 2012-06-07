@@ -1,0 +1,7 @@
+Proyecto que muestra las propiedades básicas del contenedor RelativeLayout en Android.
+
+- Declaración de un RelativeLayout en XML y propiedades básicas.
+- Componentes anidados en un RelativeLayout.
+- Acomo de componentes dentro de un RelativeLayout.
+
+Ver tutorial: http://androideity.com/2011/07/16/layout-en-android-relative-layout/
